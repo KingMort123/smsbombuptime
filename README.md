@@ -2,8 +2,6 @@
 # Discord Sms Bomber Botu [BomBot]
 Discord Botu üzerinden sadece komutlar ile belirtilen numaraya mesaj göndermeye yarar.
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1072553057075855390)](https://discord.com/users/747804005006049280)
-
 # Bot ile alakalı bazı görseller aşağıdadır.
 
 ![image](https://cdn.discordapp.com/attachments/1076259214751715380/1092467714032947200/Hyn8dHhVPUgAAAAASUVORK5CYII.png)
