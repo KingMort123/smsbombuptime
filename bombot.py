@@ -17,7 +17,7 @@ else:
         f.write(r)
 from sms import SendSms
 
-TOKEN = "NzUyMTQ4MDE3ODI1NDQ3OTc3.G_CFw0.uOZiScNWyFPwr8gdsqe5-tRxtrrUPzsWv0NPNs"
+TOKEN = "NzUyMTQ4MDE3ODI1NDQ3OTc3.GUehLM.1ulkpLUxqYJPnBjCOR7UnteroQXIYebUckg-CY"
 gif = "https://s2.gifyu.com/images/standard-10476af87af11ef11.gif"  # embede ekleyeceğiniz gif linki (https://auto.creavite.co bu sitede kıyağım olsun gidip parayla yaptırmayın)
 adet = 15   # komut kullanınca kaç sms göndereceğidir
 saniye = 0   # sms i kaç saniye aralıklarla göndereceğini ayarlarsınız
